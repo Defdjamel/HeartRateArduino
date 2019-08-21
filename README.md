@@ -34,7 +34,8 @@ Capteur Cardiaque -> http://bit.ly/2HhhdRS
 
 Resistance 1kΩ -> pack resistances http://bit.ly/2zdPHR0
 
-Led 1206 : pack 5 couleurs -> http://bit.ly/31Sas0T
+Led 1206 smd : pack 5 couleurs -> http://bit.ly/31Sas0T
+Résistances 1206 smd : pack 1Ω-1MΩ :  http://bit.ly/2L0hNVh
 
 
 ### Schéma électronique et cablages
