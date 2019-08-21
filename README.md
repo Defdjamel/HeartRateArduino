@@ -37,6 +37,7 @@ Resistance 1kΩ -> pack resistances http://bit.ly/2zdPHR0
 Led 1206 smd : pack 5 couleurs -> http://bit.ly/31Sas0T
 Résistances 1206 smd : pack 1Ω-1MΩ :  http://bit.ly/2L0hNVh
 
+la taille 1206 reste soudable à la main et permet un gain de place.
 
 ### Schéma électronique et cablages
 
