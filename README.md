@@ -45,8 +45,16 @@ la taille 1206 reste soudable à la main et permet un gain de place.
 ![Schema ](Schematic_HeartRate.png?raw=true "schema normalisé")
 
 
-## Tests
+## Preparation
+* cablage et soudure des composant 
+* Installation de l'IDE Arduino
+* Ajout de la library pulsensor depuis l'IDE arduino
+* Ouverture de l'exemple "GettingStartedProject"  afin de calibrer le capteur et de verifier que l'arduino recoit correctement les pulsations cardiaques.
+* Ouverture de HeartRate.ino afin d'afficher le rythme cardiaque sur les Leds.
 
+Je vous invite a venir voir les étapes plus en details sur mon tuto -> http://bit.ly/2KJLYBo
+
+## Test
 
 en cas d'erreur la led Pin 13 clignotera rapidement et le programme stopera.
 
