@@ -26,7 +26,7 @@ je vous invite a venir regarder mon tuto sur youtube en français sur ce projet.
 ### Requis Logiciel
 * [Arduino IDE](https://www.arduino.cc) - arduino IDE
 * [pulseSensor](https://pulsesensor.com) - pulseSensor
-* [le code ](HeartRate.ino?raw=true "Le code") - Le code
+* [le code ](HeartRate.ino) - Le code
 
 ### Requis Hardware: Sur aliexpress !
 Arduino Nano (at328/AT328P)->  http://bit.ly/2WKxqZE
