@@ -1,7 +1,7 @@
-# Capteur de pulsation cardiaque sur arduino nano
+# Capteur de pulsations cardiaques sur arduino nano
 Je débute dans la création d'objets connectés et j'aimerai partager ma création avec tout les bugs qu'il comporte :) !
 
-Capteur de pulsation cardiaque sur arduino nano ou tout autres arduino
+Capteur de pulsations cardiaques sur arduino nano ou tout autres arduino compatibles.
  ```
 ```
 
@@ -34,7 +34,7 @@ Capteur Cardiaque -> http://bit.ly/2HhhdRS
 
 Resistance 1kΩ -> pack resistances http://bit.ly/2zdPHR0
 
-Led 1206 : pack couleur -> http://bit.ly/31Sas0T
+Led 1206 : pack 5 couleurs -> http://bit.ly/31Sas0T
 
 
 ### Schéma électronique et cablages
@@ -58,7 +58,6 @@ Toutes contribution est la bienvenue sur ce projet.
 
 * **Djamal Guellati** - *Initial work* - [Defdjamel](https://github.com/Defdjamel)
 
- list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
