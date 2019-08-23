@@ -3,6 +3,7 @@ Je débute dans la création d'objets connectés et j'aimerai partager ma créat
 
 Capteur de pulsations cardiaques sur arduino nano ou tout autres arduino compatibles.
  ```
+ Tutoriel en français sur https://youtu.be/JonCgBIgUcw
 ```
 
 ⚠️ la protection de données personnelles vous impose de ne pas recupérer et reutiliser les données d'autrui sans autorisation ⚠️
@@ -21,7 +22,7 @@ Voici un schéma simple de fonctionnement:
 * 4 boucle -> 1
 
 
-je vous invite a venir regarder mon tuto sur youtube en français sur ce projet...
+je vous invite a venir regarder mon tuto sur youtube en français sur ce projet : https://youtu.be/JonCgBIgUcw
 
 ### Requis Logiciel
 * [Arduino IDE](https://www.arduino.cc) - arduino IDE
