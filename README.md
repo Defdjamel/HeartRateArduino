@@ -56,6 +56,11 @@ la taille 1206 reste soudable à la main et permet un gain de place.
 
 Je vous invite a venir voir les étapes plus en details sur mon tuto -> http://bit.ly/2KJLYBo
 
+## Impression 3D
+le fichier STL est dispo ici ->  [3D/case3D.STL](3D/case3D.stl) - Le code
+
+![impression 3D ](3D/case3D.png?raw=true "impression 3D")
+
 ## Test
 
 en cas d'erreur la led Pin 13 clignotera rapidement et le programme stopera.
