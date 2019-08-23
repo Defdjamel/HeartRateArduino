@@ -58,7 +58,7 @@ void setup() {
   pulseSensor.setOutputType(OUTPUT_TYPE);
   pulseSensor.setThreshold(THRESHOLD);
 
- //LEDS SETUP in Outupu
+ //LEDS SETUP in Output
   for (int thisPin = 0; thisPin < pinCount; thisPin++) {
     pinMode(ledPins[thisPin], OUTPUT);
   }
@@ -125,7 +125,7 @@ void loop() {
            delay(100);
            lightLed100(0);
            }else{
-                 lightLed100(0);
+               lightLed100(0);
            }
        }
     }
@@ -144,7 +144,11 @@ void lightLed100(int pourcent) {
   for (int thisPin = 0; thisPin < pinCount; thisPin++) {
     digitalWrite(ledPins[thisPin], LOW);
   }
+  
+  //PINS TO HIGH
+
  int pinsToHigh  = map(pourcent, 0 , 100, 0, pinCount);
+ 
   for (int thisPin = 0; thisPin < pinsToHigh; thisPin++) {
     digitalWrite(ledPins[thisPin], HIGH);
   }
