@@ -58,7 +58,13 @@ la taille 1206 reste soudable à la main et permet un gain de place.
 Je vous invite a venir voir les étapes plus en details sur mon tuto -> http://bit.ly/2KJLYBo
 
 ## Impression 3D
-le fichier STL est dispo ici ->  [3D/case3D.STL](3D/case3D.stl) - Le code
+les fichiers STL sont  ici :
+
+ [3D/case.STL](3D/case.stl) - boitier 
+
+ [3D/cver.STL](3D/cover.stl) - couvercle 
+ 
+ [3D/finger.STL](3D/finger.stl) - repose doigt 
 
 ![impression 3D ](3D/case3D.png?raw=true "impression 3D")
 
